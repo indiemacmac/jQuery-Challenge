@@ -1,9 +1,19 @@
-#Peer jQuery Challenge
+#jQuery Code Challenge
 
-In this challenge you will be creating an application that will be doing some pretty simple addition. But wait, there's more. The buttons should be appended to screen via jQuery code in your JavaScript file. Your code should hold a varilable `numOfButtons` and that will drive how many buttons show on the screen. You should be able to first click a button (say for instance, the '1' button) and then another (say the '3' button) and below the buttons we should see the equation:
+In this challenge you will be creating an application that will create colored `<div>` tag each time the corresponding color is clicked. Also, as each color (button) is clicked, it should also increment the corresponding label. HTML and CSS are provided, the focus here is jQuery. 
 
-		1 + 3 = 4
-		
-As the action is repeated, everything should be cleared and reset. This would happen starting with any proceeding button click. 
+Here is an image of how things should look:
 
-![](http://i.giphy.com/l41YAmqGRKBdid6zm.gif)	
+![](http://i.imgur.com/kNR9bsI.png)
+
+Here is a gif of how things should like in action: 
+
+![](http://i.giphy.com/l46CjOg8GvCqz9igM.gif)
+
+Gif not quite big enough? See the full video [here](https://dl.dropboxusercontent.com/u/86491916/Exp-Trm-Final.mp4).
+
+<!--<video src="https://dl.dropboxusercontent.com/u/86491916/Exp-Trm-Final.mp4">-->
+
+<!--<video>-->
+<!--  <source src="https://dl.dropboxusercontent.com/u/86491916/Exp-Trm-Final.mp4" type="video/mp4">-->
+<!--</video>-->
